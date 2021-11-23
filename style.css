@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: whitesmoke;
+}
+canvas
+{
+	background:orange;
+	border-radius: 20px;
+}
+#ad{
+	font-weight: bold;
+	font-family: 'Fruktur', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Source Code Pro', monospace;
+	color: white;
+}
+.button{
+	background-color: yellow;
+	color: black;
+}
